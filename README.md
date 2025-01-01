@@ -2,6 +2,8 @@
 
 Sure! Here's a simple HTML structure for a basic page about the Monopoly GO game. This includes some introductory content, images, and a basic layout.
 
+<h2><a href="https://sites.google.com/view/monopoly-go-free-dice-no-verif/">LEARN MORE</a></h2>
+
 html
 Copy code
 <!DOCTYPE html>
